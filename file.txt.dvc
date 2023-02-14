@@ -1,0 +1,4 @@
+outs:
+- md5: f336a8073df3d4f06afbf281671715bf
+  size: 16
+  path: file.txt
